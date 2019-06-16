@@ -2,7 +2,7 @@
 This is the resource center for my [Demistifying Git](https://docs.google.com/presentation/d/1S8k61SEJDk4WRUb7y2mjyo1044uekd-X1b-FN2BEUaw/edit#slide=id.g5977da965b_2_608) session. 
 
 # Prerequisites
-Basic acquaintance with git and a CLI.
+Basic acquaintance with git and the CLI.
 
 # Steps
 1. Watch my session (Hebrew) or [Git Happens](https://www.youtube.com/watch?v=yCh6TSLIQBQ&feature=youtu.be) by Jessica Kerr and [Fear Not The SHA!](https://www.youtube.com/watch?v=P6jD966jzlk&feature=youtu.be) by David Thomas (English).
